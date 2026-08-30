@@ -10,6 +10,7 @@ I wanted to save time and effort spent on FGO grinding.
 
 # Hardware
 | Component | Quantity |
+|:---:|:---:|
 | ESP32-WROOM-32E | 1 |
 | INMP441 | 1 |
 | 5V Power Supply | 1 |
